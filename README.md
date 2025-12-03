@@ -15,3 +15,5 @@ This project contains a simple setup for VR interactions using Unity and the XR 
 
 ### **Grip**
 - Used for **grabbing items**
+
+Video: [Link](https://drive.google.com/file/d/1jfVb339EcNI_zBXOo_xhHgxpqqhiWqS-/view?usp=sharing)
